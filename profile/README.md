@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://discord.gg/6dffbvGU3D">
-      <img src="https://dcbadge.vercel.app/api/server/6dffbvGU3D?compact=true&style=flat" alt="Discord">
+      <img src="https://img.shields.io/discord/1122926057641742418" alt="Discord">
   </a>
   <a href="https://github.com/RecursivelyAI/CopilotKit/actions/workflows/ci.yml">
       <img src="https://github.com/RecursivelyAI/CopilotKit/actions/workflows/ci.yml/badge.svg" alt="GitHub CI">
@@ -16,7 +16,8 @@
 
   <a href="https://www.npmjs.com/package/@copilotkit/react-core">
     <img src="https://img.shields.io/npm/v/@copilotkit/react-core" alt="NPM">
-  <img src="https://img.shields.io/github/license/novuhq/novu" alt="MIT">
+  <a href="https://github.com/CopilotKit/CopilotKit/blob/main/LICENSE">  
+    <img src="https://img.shields.io/github/license/CopilotKit/CopilotKit" alt="MIT">
   
 </p>
 

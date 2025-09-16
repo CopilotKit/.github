@@ -7,8 +7,8 @@
 </div>
 
 <p align="center">
-  <a href="https://discord.gg/6dffbvGU3D">
-      <img src="https://dcbadge.vercel.app/api/server/6dffbvGU3D?compact=true&style=flat" alt="Discord">
+  <a href="https://discord.gg/6dffbvGU3D" target="_blank">
+    <img src="https://img.shields.io/discord/1122926057641742418?logo=discord&logoColor=%23FFFFFF&label=Discord&color=%236963ff" alt="Discord">
   </a>
   <a href="https://github.com/RecursivelyAI/CopilotKit/actions/workflows/ci.yml">
       <img src="https://github.com/RecursivelyAI/CopilotKit/actions/workflows/ci.yml/badge.svg" alt="GitHub CI">
@@ -16,17 +16,16 @@
 
   <a href="https://www.npmjs.com/package/@copilotkit/react-core">
     <img src="https://img.shields.io/npm/v/@copilotkit/react-core" alt="NPM">
-  <img src="https://img.shields.io/github/license/novuhq/novu" alt="MIT">
-  
+  </a>
+
+  <a href="https://github.com/copilotkit/copilotkit/blob/main/LICENSE" target="_blank">
+    <img src="https://img.shields.io/github/license/copilotkit/copilotkit?color=%236963ff&label=License" alt="MIT">
+  </a>
 </p>
 
 <h1 align="center">
-The Open-Source Copilot Platform
+Build User-facing Agentic Applications
 </h1>
-
-<h3 align="center">
-In-app chatbots, and AI-enabled TextArea.
-</h3>
 
 <p align="center">
   <br />

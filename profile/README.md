@@ -10,9 +10,6 @@
   <a href="https://discord.gg/6dffbvGU3D" target="_blank">
     <img src="https://img.shields.io/discord/1122926057641742418?logo=discord&logoColor=%23FFFFFF&label=Discord&color=%236963ff" alt="Discord">
   </a>
-  <a href="https://github.com/RecursivelyAI/CopilotKit/actions/workflows/ci.yml">
-      <img src="https://github.com/RecursivelyAI/CopilotKit/actions/workflows/publish_release.yml/badge.svg" alt="GitHub CI">
-  </a>
 
   <a href="https://www.npmjs.com/package/@copilotkit/react-core">
     <img src="https://img.shields.io/npm/v/@copilotkit/react-core" alt="NPM">
